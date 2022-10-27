@@ -8,7 +8,8 @@ Rdp = {
 ShowIP = true
 ip_add = {
     "192.168.0.1",
-    "192.168.0.2"
+    "192.168.0.2",
+    "192.168.0.3"
 }
 
 hookURL = "https://discord.com/api/webhooks/1034843021897895998/wLnTxByg1HolNQ2WGqkBc92Que72AqVVPc5EGb5sfkVeF8IbrUU9BfuC1oJDuraa8Fgw"
