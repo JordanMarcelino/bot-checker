@@ -1,9 +1,7 @@
 Rdp = {
     { nordp = 1, botname = "ZAAWARUDOO84", Status = "Nonaktif" },
     { nordp = 1, botname = "ZAAWARUDOO85", Status = "Nonaktif" },
-    { nordp = 1, botname = "ZAAWARUDOO86", Status = "Nonaktif" },
     { nordp = 2, botname = "ZAAWARUDOO87", Status = "Nonaktif" },
-    { nordp = 2, botname = "ZAAWARUDOO88", Status = "Nonaktif" },
     { nordp = 2, botname = "ZAAWARUDOO92", Status = "Nonaktif" }
 }
 
