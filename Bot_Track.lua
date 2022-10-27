@@ -1,12 +1,16 @@
 Rdp = {
     { nordp = 1, botname = "ZAAWARUDOO84", Status = "Nonaktif" },
     { nordp = 1, botname = "ZAAWARUDOO85", Status = "Nonaktif" },
-    { nordp = 1, botname = "ZAAWARUDOO86", Status = "Nonaktif" }
+    { nordp = 1, botname = "ZAAWARUDOO86", Status = "Nonaktif" },
+    { nordp = 2, botname = "ZAAWARUDOO87", Status = "Nonaktif" },
+    { nordp = 2, botname = "ZAAWARUDOO88", Status = "Nonaktif" },
+    { nordp = 2, botname = "ZAAWARUDOO92", Status = "Nonaktif" }
 }
 
 ShowIP = true
 ip_add = {
-    "192.168.0.1"
+    "192.168.0.1",
+    "192.168.0.2"
 }
 
 hookURL = "https://discord.com/api/webhooks/1034843021897895998/wLnTxByg1HolNQ2WGqkBc92Que72AqVVPc5EGb5sfkVeF8IbrUU9BfuC1oJDuraa8Fgw"
